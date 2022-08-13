@@ -1,0 +1,22 @@
+Project 53
+
+1.Java script
+
+2.HTML
+
+3.To make divisions of content and to close the tag.
+
+4.Relative - the element is positioned relative to its normal position.
+  Absolute - the element is positioned absolutely to its first positioned parent.
+
+5.To adjust the visibility of the content(image/text).
+
+6.JSX
+
+7.Snack
+
+8.The render function is used to display the content.
+
+9.return is a function that shows the output of the content.
+
+10.React,View,Button,Text
